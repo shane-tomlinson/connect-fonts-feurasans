@@ -46,6 +46,12 @@ Locale-optimised font sets can be served by specifying the locale in the fonts.c
 Available subsets:
 * latin
 * en
+* cyrillic+latin
+* es
+* de
+* fr
+* latin
+* pt
 
 5. Set your CSS up to use the new font by using the "Feura Sans" font-family.
 ```
